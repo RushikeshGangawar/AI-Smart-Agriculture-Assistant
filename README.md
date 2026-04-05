@@ -1,3 +1,4 @@
+
 # 🌾 AI Smart Agriculture Assistant
 
 A comprehensive, **100% FREE** AI-powered agriculture assistant for Indian farmers.
@@ -194,3 +195,6 @@ This project is designed for the benefit of Indian farmers. Contributions welcom
 ---
 
 *Built with ❤️ for Indian Farmers | 100% Free & Open Source*
+
+# AI-Smart-Agriculture-Assistant
+The AI Smart Agriculture Assistant is a Streamlit-based web app that helps farmers with crop recommendations, disease detection, weather insights, and farming advice. It uses machine learning and AI models to improve decision-making, increase productivity, and support smart, data-driven agriculture.
